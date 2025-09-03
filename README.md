@@ -1,4 +1,4 @@
-# 🤖 RockyBot: News Research Tool
+# 🤖 Finance: News Research Tool
 
 A beautiful and intelligent news research tool powered by Google Gemini AI that allows you to analyze multiple news articles and ask questions about their content.
 
