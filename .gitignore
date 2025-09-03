@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Local data/indexes
+faiss_store_gemini/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+

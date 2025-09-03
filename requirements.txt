@@ -1,0 +1,8 @@
+langchain-google-genai
+langchain-community
+python-dotenv
+streamlit
+google-generativeai
+faiss-cpu
+nest_asyncio
+
